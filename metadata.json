@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DINESHKUMAR.AI",
+  "description": "An all-in-one AI-powered automation platform to convert, extract, analyze, and report on data from PDFs and Excel. Features include media generation, analysis, and a real-time conversational AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
